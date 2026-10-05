@@ -1,0 +1,6 @@
+{
+  "name": "Kun yangiliklari",
+  "description": "Bugungi eng muhim O'zbekiston va jahon yangiliklari, tahliliy maqolalar, valyuta kurslari va ob-havo ma'lumotlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
